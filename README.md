@@ -1,3 +1,4 @@
+# About
 I am a Senior Computer Science student with a focus on advanced algorithms, data structures, and operating systems, with high skills in problem-solving. Specializing in Artificial Intelligence, I have expertise in machine learning, deep learning, natural language processing, and computer vision.
 
 <!---
